@@ -14,7 +14,7 @@ public class BlokSegmentu{
     private static final int            KROK    = SP.getKrok();
     private static final int            SIRKA_B = 5 * KROK;
     private static final int            K2      = KROK / 2;
-    static final int                    M       = 1;
+    static final int                    M       = 2;
     private static final int            M2      = M * 2;
     private static final int            M3      = M * 3;
     private static final int            M4      = M * 4;
