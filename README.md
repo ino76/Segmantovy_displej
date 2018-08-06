@@ -19,4 +19,5 @@ For example "1110 0000" means "turn on first three segments and all others turn 
 
 
 Constructor of Display class has two int arguments. First one specify how many segments/numbers you want to make.
-Seccond attribute tell, how big display will be
+Seccond attribute tell, how big display will be.
+Last segment is a '.' (dot) so you can display number with a dot simply by increase the binary representation by one.
